@@ -7,7 +7,7 @@ Frontend Developer
 I am a frontend developer with experience using Angular, however I plan to dip into React and Vue in the future!
 
 * 🌍  I'm based in Melbourne, Australia
-* 🖥️  See my portfolio [here](http://https://joshuakirk01.github.io/portfolio/)
+* 🖥️  See my portfolio [here](https://joshuakirk01.github.io/portfolio/)
 * ✉️  You can contact me at [joshkirk@live.com.au](mailto:joshkirk@live.com.au)
 * 🧠  I'm learning Angular
 * 🚀  I plan to learn React and Vue

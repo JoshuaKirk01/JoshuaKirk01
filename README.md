@@ -7,7 +7,6 @@ Frontend Developer
 I am a frontend developer with experience using Angular!
 
 * 🌍  I'm based in Melbourne, Australia
-* 🖥️  See my portfolio [here](https://joshuakirk01.github.io/portfolio/)
 * ✉️  You can contact me at [joshkirk@live.com.au](mailto:joshkirk@live.com.au)
 * 🧠  I'm learning Angular
 
